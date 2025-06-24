@@ -17,6 +17,10 @@ This is an AI-powered offline desktop app built with Python and Tkinter to suppo
 - TextBlob (AI/NLP)
 - CSV for diary logging
 
+## 🧠 Screenshot
+
+![screenshot](Screenshot 2025-06-24 204355.png)
+
 ## 🎬 How to Run
 
 1. Install dependencies:
