@@ -19,7 +19,7 @@ This is an AI-powered offline desktop app built with Python and Tkinter to suppo
 
 ## 🧠 Screenshot
 
-![screenshot](Screenshot 2025-06-24 204355.png)
+![screenshot](screenshot.png)
 
 ## 🎬 How to Run
 
