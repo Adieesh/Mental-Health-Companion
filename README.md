@@ -27,3 +27,7 @@ This is an AI-powered offline desktop app built with Python and Tkinter to suppo
    ```bash
    pip install textblob
    python -m textblob.download_corpora
+
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Made with Tkinter](https://img.shields.io/badge/Made%20with-Tkinter-blueviolet)
+![Offline](https://img.shields.io/badge/Offline-App-success)
